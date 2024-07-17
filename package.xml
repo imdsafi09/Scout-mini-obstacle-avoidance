@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>obstacle_avoidance</name>
+  <version>0.0.0</version>
+  <description>Obstacle avoidance package for Scout Mini UGV using ZED2i camera</description>
+
+  <maintainer email="imadsafi08@gmail.com">your_name Muhammad Iamd
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclpy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>cv_bridge</depend>
+  <depend>opencv</depend>
+  <depend>numpy</depend>
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
+
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
+
