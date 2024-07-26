@@ -4,7 +4,7 @@
   <version>0.0.0</version>
   <description>Obstacle avoidance package for Scout Mini UGV using ZED2i camera</description>
 
-  <maintainer email="imadsafi08@gmail.com">your_name Muhammad Iamd
+  <maintainer email="imadsafi08@gmail.com">your_name</maintainer>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
